@@ -3,7 +3,7 @@ var t = '';
 function setup() {
 	textAlign(CENTER, CENTER);
   createCanvas(windowWidth, windowHeight);
-  updateJson('https://api.myjson.com/bins/rbfo', {'testing at': 'github', 'one': 'two'});
+//   updateJson('https://api.myjson.com/bins/rbfo', {'testing at': 'github', 'one': 'two'});
 }
 
 function draw() {
